@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
             when(item.itemId){
                 R.id.menu_option_home -> setFragment(HomeFragment.newInstance("Sebastián Silva"))
                 R.id.menu_option_search -> setFragment(SearchFragment())
+                R.id.menu_option_library -> setFragment(LibraryFragment())
             }
             true
         }

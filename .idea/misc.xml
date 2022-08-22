@@ -3,15 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/drawable/add_icon.xml" value="0.134" />
+        <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/drawable/fav_icon.xml" value="0.134" />
+        <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/drawable/home_icon.xml" value="0.134" />
+        <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/drawable/ic_sort.xml" value="0.134" />
+        <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/drawable/ic_user.xml" value="0.134" />
+        <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/drawable/library_icon.xml" value="0.134" />
+        <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/drawable/my_favs_rect.xml" value="0.133" />
         <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/drawable/myrect.xml" value="0.186" />
         <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/drawable/myrect_fucsia.xml" value="0.186" />
         <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/drawable/myrect_grey.xml" value="0.186" />
         <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/drawable/myrect_purple.xml" value="0.186" />
+        <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/drawable/person_icon.xml" value="0.134" />
         <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/drawable/search_icon.xml" value="0.186" />
         <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_first.xml" value="0.264" />
         <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_home.xml" value="0.2825520833333333" />
-        <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_search.xml" value="0.536" />
+        <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_library.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/layout/fragment_search.xml" value="0.264" />
         <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/layout/home_fragment.xml" value="0.11197916666666667" />
         <entry key="..\:/AndroidStudioProjects/Fragments/app/src/main/res/menu/bottom_nav_menu.xml" value="0.253125" />
       </map>

@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Fragments</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="good_morning">Good Morning,</string>
     <string name="home_fr_name">Sebastián Silva</string>
@@ -12,4 +11,19 @@
     <string name="home_title">Home</string>
     <string name="search_title">Search</string>
     <string name="library_title">Library</string>
+    <string name="your_top_genres_text">Your top genres</string>
+    <string name="rock_rect_desc">Rock Rectangle</string>
+    <string name="metal_rect_desc">Metal Rectangle</string>
+    <string name="latin_rect_desc">Latin Rectangle</string>
+    <string name="pop_rect_desc">Pop Rectangle</string>
+    <string name="your_library_text">Your Library</string>
+    <string name="number_of_songs">0 songs</string>
+    <string name="most_recent_text">Most recent</string>
+    <string name="liked_songs_text">Liked Songs</string>
+    <string name="person_icon_desc">Person Icon</string>
+    <string name="add_button_desc">Add Button</string>
+    <string name="search_icon_desc">Search Icon</string>
+    <string name="sort_icon_desc">Sort Icon</string>
+    <string name="favs_box_desc">Favs Box</string>
+    <string name="favs_icon_desc">Favs Icon</string>
 </resources>
