@@ -2,6 +2,7 @@ package com.silva.fragments
 
 import androidx.fragment.app.Fragment
 
-class FirstFragment : Fragment(R.layout.fragment_first) {
+
+class SearchFragment : Fragment(R.layout.fragment_search) {
 
 }
